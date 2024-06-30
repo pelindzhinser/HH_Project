@@ -1,6 +1,6 @@
 # PROJECT - 1. Анализ резюме из HeadHanter  
 
-Проект в GoogleColab: [GoogleColab](https://drive.google.com/file/d/1t44RtejP-wDFklpYSJw-Jq2zysEf40Gp/view?usp=sharing ) (сервис на котором выложен проект)
+Проект в GoogleColab: [GoogleColab](https://colab.research.google.com/drive/1BbavZ2i-TN1_4h_I7JYhtj1tLMLxsKoh?usp=sharing) (сервис на котором выложен проект)
 
 ## Описание проекта ## 
 
